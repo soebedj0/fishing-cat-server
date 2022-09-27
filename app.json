@@ -1,8 +1,9 @@
 {
   "name": "Fishing Cat Server",
   "description": "Fishing Cat Server",
-  "repository": "https://github.com/fishing-cat/fishing-cat-server",
-  "website": "https://github.com/fishing-cat/fishing-cat-server",
+  "stack": "heroku-18",
+  "repository": "https://github.com/soebedj0/fishing-cat-server",
+  "website": "https://github.com/soebedj0/fishing-cat-server",
   "keywords": [
     "phishing",
     "security",
